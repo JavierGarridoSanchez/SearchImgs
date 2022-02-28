@@ -1,5 +1,3 @@
-# SEARCHIMGS
-
 # DESCRIPCIÓN
 Aplicación para buscar flores mediante el uso de la API Unsplash.
 

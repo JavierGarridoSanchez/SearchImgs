@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Search Imgs</string>
+    <string name="title1">LEA LOS TERMINOS PARA SEGUIR ADELANTE</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="terminos">"Estos Términos y Condiciones regulan la descarga, acceso y utilización de la aplicación móvil (en adelante, la “APLICACIÓN”). ponen a disposición de los usuarios.\n"
+                        "\n"
+                        "Esta versión de la APLICACIÓN está disponible de forma gratuita.\n"
+                        "\n"
+                        "El acceso a la APLICACIÓN supone que el usuario reconoce ha aceptado y consentido sin reservas de las presentes condiciones de uso."</string>
+    <string name="title2">PUEDE FINALIZAR Y EMPEZAR A DISFRUTAR DE LA APP.</string>
+    <string name="terminos2">Aplicación para buscar fotos de flores mediante el uso de la api unsplash en: https://unsplash.com/</string>
+    <string name="img_fondo">img_fondo</string>
+    <string name="logo">logo</string>
+</resources>
